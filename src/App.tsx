@@ -43,7 +43,7 @@ function App() {
             <div className="flex items-center">
               <a href="#" className="flex items-center">
                 <Palette className="h-8 w-8 text-indigo-400 mr-2" />
-                <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-pink-500">DesignCraft</span>
+                <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-pink-500">UI/UX</span>
               </a>
             </div>
             
@@ -529,7 +529,7 @@ function App() {
                     </div>
                     <div>
                       <h4 className="text-gray-400 text-sm mb-1">Email</h4>
-                      <p className="text-white">hello@designcraft.com</p>
+                      <p className="text-white">hello@UI/UX.com</p>
                     </div>
                   </div>
                   
@@ -588,10 +588,10 @@ function App() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex justify-center items-center mb-4">
             <Palette className="h-6 w-6 text-indigo-400 mr-2" />
-            <span className="font-bold text-lg bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-pink-500">DesignCraft</span>
+            <span className="font-bold text-lg bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-pink-500">UI/UX</span>
           </div>
           <p className="text-gray-400">
-            © {new Date().getFullYear()} DesignCraft Portfolio. All rights reserved.
+            © {new Date().getFullYear()} UI/UX Portfolio. All rights reserved.
           </p>
         </div>
       </footer>
